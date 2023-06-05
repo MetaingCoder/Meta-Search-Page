@@ -98,15 +98,15 @@ var se_list_preinstall = {
 // 默认快捷方式
 var quick_list_preinstall = {
     '1': {
-        title: "Vercel",
-        url: "https://vercel.com/",
+        title: "醉里博客",
+        url: "https://202271.xyz",
     },
     '2': {
         title: "GitHub",
         url: "https://github.com/",
     },
     '3': {
-        title: "Cloudflare",
+        title: "cloudflare",
         url: "https://dash.cloudflare.com/",
     },
     '4': {
